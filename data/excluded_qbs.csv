@@ -1,0 +1,23 @@
+draft_year,team_abbr_orig,qb_name,pick_overall,top_10,wins_before,wins_before_3yr_avg,wins_after_1,wins_after_2_3,wins_after_5,missing_3yr_avg,incomplete_post_win_data,traded_or_did_not_play_year1
+2001,ATL,Michael Vick,1,True,4.0,8.0,9.0,8.0,7.0,False,False,True
+2001,SDG,Drew Brees,32,False,,,,,,True,True,True
+2002,HOU,David Carr,1,True,,,5.0,4.5,8.0,True,False,False
+2004,SDG,Eli Manning,1,True,,,,,,True,True,True
+2004,NYG,Philip Rivers,4,True,4.0,6.666666666666667,11.0,9.0,8.0,False,False,True
+2005,SFO,Alex Smith,1,True,,,,,,True,True,True
+2005,GNB,Aaron Rodgers,24,False,,,,,,True,True,True
+2007,OAK,JaMarcus Russell,1,True,2.0,11.0,5.0,6.5,4.0,False,False,True
+2009,TAM,Josh Freeman,17,False,,,,,,True,True,True
+2010,STL,Sam Bradford,1,True,1.0,9.0,2.0,7.0,7.0,False,False,True
+2010,DEN,Tim Tebow,25,False,8.0,8.666666666666666,8.0,13.0,12.0,False,False,True
+2012,WAS,Robert Griffin III,2,True,5.0,9.5,3.0,6.5,7.0,False,False,True
+2015,TAM,Jameis Winston,1,True,,,,,,True,True,True
+2016,LAR,Jared Goff,1,True,7.0,7.0,,,,False,True,True
+2021,SFO,Trey Lance,3,True,,,,,,True,True,True
+2021,NWE,Mac Jones,15,False,,,,,,True,True,True
+2020,GNB,Jordan Love,26,False,,,,,,True,True,True
+2018,ARI,Josh Rosen,10,True,8.0,6.666666666666667,5.0,9.5,4.0,False,False,True
+2017,KAN,Patrick Mahomes,10,True,,,,,,True,True,True
+2023,CAR,Bryce Young,1,True,7.0,5.0,,,,False,True,False
+2023,HOU,C.J. Stroud,2,True,3.0,10.333333333333334,,,,False,True,False
+2023,IND,Anthony Richardson,4,True,4.0,10.666666666666666,,,,False,True,False
